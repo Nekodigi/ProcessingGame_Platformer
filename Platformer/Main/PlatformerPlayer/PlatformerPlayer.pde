@@ -1,3 +1,8 @@
+//How to use: Arrow key to move. Space key to jump.
+//isClient = false;to build server. And check server ip address.
+//start this program different pc. isClient = true;and serverAdress = "server ip adress".
+
+
 //TODO DELETE PLAYER WHEN DISCONNECT
 //MOVING FLOOR
 //JUMPING FLOOR
